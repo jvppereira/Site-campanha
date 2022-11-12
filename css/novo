@@ -1,0 +1,20 @@
+int led1 = 1;
+int led2 = 2;
+int led3 = 3;
+int led4 = 4; 
+int led5 = 5;
+
+int t = 0;
+
+
+
+void setup(){
+    
+   
+}
+  
+void loop(){
+  
+
+    }
+    
